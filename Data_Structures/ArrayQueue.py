@@ -1,3 +1,6 @@
+from CommonAlgorithms import Empty
+
+
 class ArrayQueue:
 
     DEFAULT_CAPACITY = 10

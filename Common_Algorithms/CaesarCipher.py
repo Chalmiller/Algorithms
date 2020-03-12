@@ -26,6 +26,7 @@ class CaesarCipher:
                 msg[k] = code[j]
         return ''.join(msg)
 
+
 if __name__ == '__main__':
     cipher = CaesarCipher(3)
     message = "THE EAGLE IS IN PLAY; MEET AT JOE'S."

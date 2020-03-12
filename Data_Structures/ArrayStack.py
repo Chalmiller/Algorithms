@@ -1,3 +1,6 @@
+from CommonAlgorithms import Empty
+
+
 class ArrayStack:
 
     def __init__(self):
